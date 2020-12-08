@@ -1,4 +1,4 @@
-;Campus;Circuito;Potencia_kVA;Localizacao;Demanda;Prioridade;Cod_Tipo_Carga;Des_Tipo_Carga;Latitude;Longitude;Arestas;Des_Aresta;Cod_Aresta;Op
+Carga;Campus;Circuito;Potencia_kVA;Localizacao;Demanda;Prioridade;Cod_Tipo_Carga;Des_Tipo_Carga;Latitude;Longitude;Arestas;Des_Aresta;Cod_Aresta;Op
 subLeste;Leste;0;0;Subestacao Leste;1;0;0;raiz;-5.204789754934609;-37.32545519247651;s03t01;CF;1;1
 subLeste;Leste;0;0;Subestacao Leste;1;0;0;raiz;-5.204789754934609;-37.32545519247651;s03t03;CF;1;1
 subLeste;Leste;0;0;Subestacao Leste;1;0;0;raiz;-5.204789754934609;-37.32545519247651;s03t09;CF;1;1
