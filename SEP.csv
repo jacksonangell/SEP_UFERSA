@@ -2,7 +2,7 @@ Carga;Campus;Circuito;Potencia_kVA;Localizacao;Demanda;Prioridade;Cod_Tipo_Carga
 subLeste;Leste;0;0;Subestacao Leste;1;0;0;raiz;-5.204789754934609;-37.32545519247651;s03t01;CF;1;1
 subLeste;Leste;0;0;Subestacao Leste;1;0;0;raiz;-5.204789754934609;-37.32545519247651;s03t03;CF;1;1
 subLeste;Leste;0;0;Subestacao Leste;1;0;0;raiz;-5.204789754934609;-37.32545519247651;s03t09;CF;1;1
-subOeste;Oeste;0;0;Subestacao Oeste;1;0;0;raiz;0;0;s01t01;LE;0;1
+subOeste;Oeste;0;0;Subestacao Oeste;1;0;0;raiz;;;s01t01;LE;0;1
 s03t03;Leste;2;150;LAB-QFM;0,6;2;2;consumo;-5.204955129884183;-37.324116099625826;s03t04;LE;0;1
 s03t04;Leste;2;150;Central de Aulas III;0,6;2;2;consumo;-5.205009821802378;-37.3239947296679;s03t05;LE;0;1
 s03t05;Leste;2;150;Centro de Convivência;0,6;2;2;consumo;-5.2048838417977095;-37.32349240221083;s04t03;LE;0;1
