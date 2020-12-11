@@ -31,7 +31,7 @@ s01t01;Oeste;9;150;LAB. s.;0,6;2;2;consumo;;;s01t02,s01t03,s01t04;LE;0;1
 s01t02;Oeste;9;150;Centro Integrado de Laboratório do DCAN;0,6;2;2;consumo;;;s02t01;LE;0;1
 s01t03;Oeste;10;75;Hospital Veterinário;0,6;2;2;consumo;;;;;;
 s02t01;Oeste;9;75;Bloco Central;0,6;2;2;consumo;;;s02t02;LE;0;1
-s02t02;Oeste;10;112,5;Lab Hidro;0,6;2;2;consumo;;;s02t03;LE;0;1
+s02t02;Oeste;10;112.5;Lab Hidro;0,6;2;2;consumo;;;s02t03;LE;0;1
 s02t03;Oeste;10;150;Central de Aulas 2;0,6;2;2;consumo;;;;;;1
 s01t04;Oeste;10;150;DCAN I;0,6;2;2;consumo;;;s01t05;LE;0;1
 s01t05;Oeste;10;75;Alojamento Feminino;0,6;2;2;consumo;;;s01t06;LE;0;1
